@@ -1,0 +1,2 @@
+https://moatime.net - Link to use the actual service
+https://server.moatime.net/docs - Link to check the list of APIs used to create the service
